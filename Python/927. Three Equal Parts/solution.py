@@ -31,4 +31,3 @@ class Solution:
 
         return [interval[1] + z, interval[3] + z + 1]
 
-        print(interval)
