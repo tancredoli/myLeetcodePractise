@@ -1,6 +1,6 @@
 class Solution:
     def findIntegers(self, n: int) -> int: \
-            # naive approach : not passed
+        # naive approach : not passed
         # def check(s):
         #     for i in range(len(s)-1):
         #         if s[i] == '1' and s[i+1] == '1':
